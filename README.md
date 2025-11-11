@@ -1,7 +1,8 @@
 # Color Picker Utility
 
 A simple browser-based color picker that allows you to adjust colors using RGB and HSV sliders.  
-The selected color is displayed along with its hexadecimal RGB code, making it easy to copy and use in web design or development.
+The selected color is displayed along with its hexadecimal RGB code, making it easy to copy and use in web design or development.  
+The application features a dynamic background with smooth fading transitions between images of the savanna.
 
 ![Screenshot](./screenshot.png)
 
@@ -9,7 +10,7 @@ The selected color is displayed along with its hexadecimal RGB code, making it e
 - Adjustable RGB and HSV sliders
 - Real-time color preview
 - Display of the hexadecimal RGB value
-- Fancy changing *sabana* background with smooth transitions
+- Dynamic savanna background with smooth transitions
 - Works entirely in the browser — no server required
 
 ## Usage
