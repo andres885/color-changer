@@ -1,0 +1,12 @@
+document.getElementsByClassName("box")[0].style.paddingBottom = "32px";
+document.getElementsByClassName("box")[1].style.position = "relative";
+inputs = document.getElementsByTagName("INPUT");
+rgbValues = document.getElementsByClassName("rgbValue");
+rgbDecimalValues = document.getElementsByClassName("rgbDecimalValue");
+hexValue = document.getElementById("hexValue").getElementsByTagName("B")[0];
+hsvValues = document.getElementsByClassName("hsvValue");
+hsvDecimalValues = document.getElementsByClassName("hsvDecimalValue");
+boxHeight = document.getElementsByClassName("box")[0].offsetHeight - 2;
+colorMargin = (boxHeight - 128) / 2;
+color = document.getElementById("color");
+color.style.margin = colorMargin + "px auto 0px";
