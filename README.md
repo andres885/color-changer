@@ -2,7 +2,7 @@
 
 A simple browser-based color picker that allows you to adjust colors using RGB and HSV sliders.  
 The selected color is displayed along with its hexadecimal RGB code, making it easy to copy and use in web design or development.  
-It even has a fancy *sabana*-changing background with smooth fades — because why not make color picking a bit more exotic?
+It has a fancy *sabana*-changing background.
 
 ![Screenshot](./screenshot.png)
 
