@@ -1,24 +1,25 @@
-# Color Picker Utility
+# Color Changer
 
-A simple browser-based color picker that allows you to adjust colors using RGB and HSV sliders. The selected color is displayed along with its hexadecimal RGB code, making it easy to copy and use in web design or development. The application features a dynamic background with smooth fading transitions.
+A lightweight tool to adjust colors and visualize the relationship between RGB, HSV, and hexadecimal RGB values.  
+The application features a dynamic background with smooth fading transitions between images of the savanna.
 
 ![Screenshot](./screenshot.png)
 
 ## Features
 - Adjustable RGB and HSV sliders
-- Real-time color preview
-- Display of the hexadecimal RGB value
+- Real-time display of RGB, HSV, and hexadecimal values
+- Fine-tune colors without heavy software like Photoshop or GIMP
 - Dynamic savanna background with smooth transitions
 - Works entirely in the browser — no server required
 
 ## Usage
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/yourusername/color-picker-utility.git
+   git clone https://github.com/yourusername/color-changer.git
    ```
 2. Open the `index.html` file in your preferred web browser.
 
-That's it — you can now experiment with colors and get their exact hex codes!
+That's it — you can now experiment with colors and see how RGB, HSV, and hexadecimal values relate to each other.
 
 ## Contributing
 Feel free to fork this repository, make improvements, and submit pull requests.  
