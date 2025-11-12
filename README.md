@@ -1,7 +1,6 @@
 # Color Changer
 
-A lightweight tool to adjust colors and visualize the relationship between RGB, HSV, and hexadecimal RGB values.  
-The application features a dynamic background with smooth fading transitions between images of the savanna.
+A lightweight tool to adjust colors and visualize the relationship between RGB, HSV, and hexadecimal RGB values.
 
 ![Screenshot](./screenshot.png)
 
