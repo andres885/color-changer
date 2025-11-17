@@ -25,6 +25,5 @@ Feel free to fork this repository, make improvements, and submit pull requests.
 All contributions must comply with the terms of the GNU General Public License v3.0.
 
 ## License
-This project is licensed under the **GNU General Public License v3.0 (GPLv3)**.  
-You are free to use, modify, and distribute this software, provided that all copies and derivative works are also licensed under the GPLv3.  
-See the [LICENSE](./LICENSE) file for details.
+MIT License – see the full license here:  
+https://opensource.org/licenses/MIT
